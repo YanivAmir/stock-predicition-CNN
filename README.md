@@ -1,5 +1,5 @@
 # stock-predicition-CNN
-## CNN to predict future stock fluctuations via CNN
+## Predicting future stock fluctuations via CNN
 
 work in progress
 
