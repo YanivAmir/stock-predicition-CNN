@@ -9,6 +9,16 @@ Goal: To construct a classification model to identify stocks' future price range
 
 NASDAQ + NYSE tickers: Total of ~5500 stocks.
 
+Tech used:
+<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style-flat">
+<img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style-flat">
+<img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-f7931e?logo=scikit-learn&logoColor=white&style-flat">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013242?logo=numpy&logoColor=white&style-flat">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style-flat">
+<img alt="TradingView" src="https://img.shields.io/badge/TradingView-131622?logo=tradingview&logoColor=white&style-flat">
+<img alt="Google Colab" src="https://img.shields.io/badge/GoogleColab-f9ab00?logo=googlecolab&logoColor=white&style-flat">
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37626?logo=jupyter&logoColor=white&style-flat">
+
 
 ### Data construction:
 Stocks over a threshold marketcap have a 12week candlestick plot and volume plot generated, in 1hr resolution.
