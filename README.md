@@ -15,6 +15,7 @@ Tech used:
 <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-f7931e?logo=scikit-learn&logoColor=white&style-flat">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013242?logo=numpy&logoColor=white&style-flat">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style-flat">
+<img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=SciPy&logoColor=white&style-flat">
 <img alt="TradingView" src="https://img.shields.io/badge/TradingView-131622?logo=tradingview&logoColor=white&style-flat">
 <img alt="Google Colab" src="https://img.shields.io/badge/GoogleColab-f9ab00?logo=googlecolab&logoColor=white&style-flat">
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37626?logo=jupyter&logoColor=white&style-flat">
